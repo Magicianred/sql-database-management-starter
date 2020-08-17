@@ -1,11 +1,14 @@
 # Database Management Project
+Completed as part of the App Academy curriculum. Implementation by Juliet Shafto.
 
+## Project Description
 This project asks you to write some SQL to make some tests pass. You must do
 them in order of the file name.
 
-You'll be writing your SQL in *.sql files. This is just like writing it in the
-`psql` client. You put semicolons after each statement. But, you don't have to
-worry about silly mistakes because it's in a file and they're easy to fix.
+## Project Status
+- [ ] Create Users
+- [ ] Create Databases
+- [ ] Create AA times tables
 
 ## Instructions
 
