@@ -6,7 +6,7 @@ This project asks you to write some SQL to make some tests pass. You must do
 them in order of the file name.
 
 ## Project Status
-- [ ] Create Users
+- [x] Create Users
 - [ ] Create Databases
 - [ ] Create AA times tables
 
