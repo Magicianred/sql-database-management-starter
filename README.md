@@ -8,7 +8,7 @@ them in order of the file name.
 ## Project Status
 - [x] Create Users
 - [x] Create Databases
-- [ ] Create AA times tables
+- [x] Create AA times tables
 
 ## Instructions
 
